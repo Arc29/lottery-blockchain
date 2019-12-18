@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lottery-blockchain/static/css/main.d1b05096.chunk.css",
+    "main.js": "/lottery-blockchain/static/js/main.750874e2.chunk.js",
+    "main.js.map": "/lottery-blockchain/static/js/main.750874e2.chunk.js.map",
+    "runtime-main.js": "/lottery-blockchain/static/js/runtime-main.9b8601dc.js",
+    "runtime-main.js.map": "/lottery-blockchain/static/js/runtime-main.9b8601dc.js.map",
+    "static/js/2.dc3bf76a.chunk.js": "/lottery-blockchain/static/js/2.dc3bf76a.chunk.js",
+    "static/js/2.dc3bf76a.chunk.js.map": "/lottery-blockchain/static/js/2.dc3bf76a.chunk.js.map",
+    "index.html": "/lottery-blockchain/index.html",
+    "precache-manifest.ac7b79f50896dd5f868342a0bc981ef1.js": "/lottery-blockchain/precache-manifest.ac7b79f50896dd5f868342a0bc981ef1.js",
+    "service-worker.js": "/lottery-blockchain/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/lottery-blockchain/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.dc3bf76a.chunk.js.LICENSE": "/lottery-blockchain/static/js/2.dc3bf76a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b8601dc.js",
+    "static/js/2.dc3bf76a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.750874e2.chunk.js"
+  ]
+}
